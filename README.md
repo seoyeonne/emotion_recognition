@@ -16,13 +16,8 @@
    - kaggle Dender Classification dataset download
 
 ## Test
-![IMG_0931](https://user-images.githubusercontent.com/80025812/236636857-aef2d3ea-4a19-4485-8fb8-b6fd5b1a0023.jpg)
-![IMG_0922](https://user-images.githubusercontent.com/80025812/236636823-2dd9689e-51a8-45d0-b188-052b990d07d0.jpg)
-![IMG_0923](https://user-images.githubusercontent.com/80025812/236636861-87266e75-5ee8-44fa-9afd-f3454675d4e3.jpg)
-![IMG_0932](https://user-images.githubusercontent.com/80025812/236636871-187382f3-4f4c-4f9f-a2d4-7db434282d35.jpg)
-![IMG_0934](https://user-images.githubusercontent.com/80025812/236636878-10b6a1a6-09b5-4cf3-9e63-9bd960d3d2e1.jpg)
-![IMG_0925](https://user-images.githubusercontent.com/80025812/236636881-e172f93a-2a07-48c5-938c-6cfe5277f32c.jpg)
-![IMG_0928](https://user-images.githubusercontent.com/80025812/236636893-e45eeca4-7d0c-4349-9918-a62c7d8b9354.jpg)
+![IMG_0931](https://user-images.githubusercontent.com/80025812/236637212-48f05a49-bcbf-4c76-88a6-edfd170149c0.jpg) | <img width="481" alt="Female-Neutral" src="https://user-images.githubusercontent.com/80025812/236636923-0c2d35d7-a77e-46f8-be62-011a8a47f01f.png">
+
 
 ---------------------------------------
 <img width="496" alt="Femal-Fearful" src="https://user-images.githubusercontent.com/80025812/236636917-be8bc397-1305-45f0-9f5a-3a61e6dcdd4d.png">
