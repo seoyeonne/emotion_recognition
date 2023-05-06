@@ -9,7 +9,7 @@
 - OpenCV
 
 ## Dataset
-   - 모두 kaggle dataset을 사용
+- 모두 kaggle dataset을 사용
    - !kaggle competitions download -c challenges-in-representation-learning-facial-expression-recognition-challenge
    - kaggle Dender Classification dataset download
 
