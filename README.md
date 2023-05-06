@@ -19,4 +19,4 @@
 ![IMG_0922](https://user-images.githubusercontent.com/80025812/236636607-1303e74b-b2d4-443b-b1b1-abd39eda4d98.jpg)
 
 ---------------------------------------
-<p align="center"><img src=""https://user-images.githubusercontent.com/80025812/236636613-491b501a-ff5a-4c2f-9f50-6180b5b6a9d8.png" width="500px" height="500px"></p>
+<img src=""https://user-images.githubusercontent.com/80025812/236636613-491b501a-ff5a-4c2f-9f50-6180b5b6a9d8.png" width="500px"></p>
